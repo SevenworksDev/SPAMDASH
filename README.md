@@ -1,2 +1,2 @@
 # SPAMDASH
-Geometry Dash Recent Tab Spam Bot.
+Coming soon, Star this and be prepared for release!  
