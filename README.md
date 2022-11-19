@@ -33,3 +33,9 @@ The name says it, Remember that the timing in config.json is milliseconds and no
 The GD Servers are marked as an Illegal Site by your countrys government, Time to move!  
 ### Bad Gateway
 RobTops servers are once again a little too funky.  
+
+## Bot Makers
+buffit222, buffit444, buffit666, buffit999, buffit0777, nerfit0777 - @SevenworksDev on GitHub. 
+clbot, clbotv2 - @cv003 on GitHub.  
+AGuyNamedBob - @mrmaskman100 on TikTok. (https://www.tiktok.com/@mrmaskman100/video/7141598526575889707)  
+chickenbot, youtube advertiser bots - Unknown
