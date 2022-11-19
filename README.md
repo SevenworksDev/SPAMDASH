@@ -38,4 +38,4 @@ RobTops servers are once again a little too funky.
 buffit222, buffit444, buffit666, buffit999, buffit0777, nerfit0777 - @SevenworksDev on GitHub. 
 clbot, clbotv2 - @cv003 on GitHub.  
 AGuyNamedBob - @mrmaskman100 on TikTok. (https://www.tiktok.com/@mrmaskman100/video/7141598526575889707)  
-chickenbot, youtube advertiser bots - Unknown
+chickenbot, YouGotFranced, youtube advertiser bots - Unknown
